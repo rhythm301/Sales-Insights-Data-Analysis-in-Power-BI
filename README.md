@@ -1,5 +1,4 @@
-# Sales-Insights-Data-Analysis-in-Power-BI
-# Sales Insights Dashboard 📊
+# Sales-Insights-Data-Analysis-in-Power-BI 📊
 A comprehensive Sales Insights Dashboard built with Power BI to analyze and visualize key sales performance metrics, enabling data-driven decision-making. This project demonstrates the use of Power BI to create an interactive dashboard, integrating data modeling, visualization, and DAX (Data Analysis Expressions) for actionable insights.
 
 # 🌟 Features
